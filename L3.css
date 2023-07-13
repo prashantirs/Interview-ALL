@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    justify-content:space-between ;
+
+}
+.navbar-center{
+    display: flex;
+    gap: 5rem;
+}
+
+/* a{
+    text-decoration:none;
+    color: black;
+} */
+.navbar-center > div > a{
+    text-decoration:none;
+    color: black;
+}
