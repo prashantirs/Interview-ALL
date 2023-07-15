@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 1.5rem;
+}
+.navbar{
+    height: 5rem;
+    width: 100vw;
+    background-color: orange;
+    position: fixed;
+    top: 0;
+}
+.stick{
+    height: 5rem;
+    width: 20vw;
+    background-color: rgb(60, 61, 158);
+    z-index: 100000000000000000000;
+    position: sticky;
+    top: 7rem;
+}
